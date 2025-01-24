@@ -20,7 +20,6 @@
 
 <div>
 
-  <!-- Languages -->
   <h3>Languages:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -43,13 +42,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
 
-  <!-- Databases -->
+---
+
   <h3>DataBase´s:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
 
-  <!-- Operating Systems -->
+---
+
   <h3>OS:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img width="12" />
@@ -63,8 +64,8 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" height="30" />
 
+---
 
-  <!-- Others -->
   <h3>Others:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
   <img width="12" />
@@ -82,6 +83,8 @@
   <img width="12" />
   <img src="https://icons.fortinet.com/icons/Logos/Fortinet-logomark-rgb-red.svg" height="30" alt="fortinet logo" />
 </div>
+
+---
 
 ###
 
