@@ -1,95 +1,101 @@
-<h1 align="center">🎉 WELCOME TO MY PROFILE 🎉</h1>
+<h1 align="center">⚡ CYBERSECURITY | PENTEST | RED TEAM ⚡</h1>
 
-###
+<h3 align="center">
+  Enthusiast • Learner • Offensive Security  
+</h3>
 
-<h2 align="center"><i>Hi 👋! My name is Fernando Lopes xD<br><br>and I'm a Beginner Full Stack Developer</i></h2>
+---
 
-###
+## 👾 Quem sou eu
+Sou o **Fernando Lopes**, apaixonado por **Segurança Ofensiva**, ataques em ambientes controlados e toda a filosofia que envolve o mundo do hacking ético e cibersegurança.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandoolopes&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=fernandoolopes&locale=pt-br&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoolopes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
+Meu foco atual está em:
 
-###
+- 🔍 Pentest (Infra / Redes / Sistemas / Wireless)  
+- 🎯 Técnicas de Red Team  
+- 🧪 Exploração de vulnerabilidades  
+- 🛠️ Scripting para automação ofensiva (Python / Bash)  
+- 🛰️ OSINT & coleta de informações  
+- 🔐 Segurança em infraestruturas Linux  
+- ⚙️ Ferramentas e metodologias de Ethical Hacking  
 
-<p align="left"><Technologies/></p>
+---
 
-###
+## 🧰 Arsenal Técnico
 
+### 🖥️ **Sistemas Operacionais**
 <div>
-
-  <h3>Languages:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo" />
-
----
-
-  <h3>DataBase´s:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-
----
-
-  <h3>OS:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo" /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" height="30" />
-
----
-
-  <h3>Others:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo" />
-  <img width="12" />
-  <img src="https://icons.fortinet.com/icons/Logos/Fortinet-logomark-rgb-red.svg" height="30" alt="fortinet logo" />
+  <img src="https://www.svgrepo.com/show/448221/kali-linux.svg" height="40" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" />
+  <img width="10"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" height="40" />
 </div>
 
 ---
 
-###
+### ⚔️ **Ferramentas de Segurança / Offensive Security**
+<div>
+  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://www.svgrepo.com/show/378561/metasploit.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Wireshark_Logo.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/sqlmap/xml/sqlmap-logo.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://icons.fortinet.com/icons/Logos/Fortinet-logomark-rgb-red.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/John_the_Ripper_logo.svg/1200px-John_the_Ripper_logo.svg.png" height="40"/>
+</div>
+
+---
+
+### 🐍 **Linguagens para Automação & Exploits**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+</div>
+
+---
+
+### 📦 **Infra, Redes & Cloud**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40"/>
+</div>
+
+---
+
+## 🎯 Filosofia de Trabalho
+- “**Explorar para entender. Entender para defender.**”  
+- Segurança não é um produto — é um processo contínuo  
+- Quanto mais você aprende, mais percebe o quanto ainda existe para explorar  
+- Ética e responsabilidade acima de tudo  
+
+---
+
+## 🌐 Contatos
+<div align="center">
+  <img src="https://img.shields.io/badge/Instagram-EC4899?logo=instagram&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white"/>
+</div>
+
+---
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  <img src="https://raw.githubusercontent.com/fernandoolopes/fernandoolopes/output/snake.svg" height="110" alt="snake animation"/>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fernandoolopes/fernandoolopes/output/snake.svg" alt="Snake animation" />
