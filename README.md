@@ -1,3 +1,12 @@
+<p align="center">
+  <img 
+    src="https://www.recordedfuture.com/threat-intelligence-101/tools-and-techniques/media_12669b9a517138333e647bfeddb5b2e2d7e140288.png?width=2000&format=webply&optimize=medium" 
+    style="width:100%; height:300px; object-fit:cover; object-position:center;"
+  />
+</p>
+
+
+
 <h1 align="center">⚡ CYBERSECURITY | PENTEST | RED TEAM ⚡</h1>
 
 <h3 align="center">
@@ -39,19 +48,15 @@ Meu foco atual está em:
 ---
 
 ### ⚔️ **Ferramentas de Segurança / Offensive Security**
-<div>
-  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://www.svgrepo.com/show/378561/metasploit.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Wireshark_Logo.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/sqlmap/xml/sqlmap-logo.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://icons.fortinet.com/icons/Logos/Fortinet-logomark-rgb-red.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/John_the_Ripper_logo.svg/1200px-John_the_Ripper_logo.svg.png" height="40"/>
-</div>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Nmap-logo.svg" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="42"/>
+  <img src="https://www.kali.org/tools/john/images/john-logo.svg" height="42"/>
+  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="42"/>
+  <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" height="42"/>
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="42"/>
+</p>
+
 
 ---
 
@@ -77,11 +82,13 @@ Meu foco atual está em:
 
 ---
 
-## 🎯 Filosofia de Trabalho
-- “**Explorar para entender. Entender para defender.**”  
-- Segurança não é um produto — é um processo contínuo  
-- Quanto mais você aprende, mais percebe o quanto ainda existe para explorar  
-- Ética e responsabilidade acima de tudo  
+## 💀 Filosofia de Trabalho 
+- **Nada é seguro. Só está esperando ser explorado.**
+- O que é acessível pode ser invadido.
+- Código falha. Humanos falham mais.
+- A superfície de ataque nunca é zero.
+- Toda defesa tem um ponto cego.
+- A vulnerabilidade sempre existe — a descoberta é só questão de tempo.
 
 ---
 
