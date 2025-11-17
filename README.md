@@ -34,7 +34,9 @@ Meu foco atual está em:
 
 ### 🖥️ **Sistemas Operacionais**
 <div>
-  <img src="https://www.svgrepo.com/show/448221/kali-linux.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" height="40" />
+  <img width="10"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img width="10"/>
@@ -49,7 +51,8 @@ Meu foco atual está em:
 
 ### ⚔️ **Ferramentas de Segurança / Offensive Security**
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Nmap-logo.svg" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg" height="42"/>
+  <img src="https://cdn.brandfetch.io/idCqcY6yWr/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="42"/>
   <img src="https://www.kali.org/tools/john/images/john-logo.svg" height="42"/>
   <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="42"/>
@@ -62,6 +65,8 @@ Meu foco atual está em:
 
 ### 🐍 **Linguagens para Automação & Exploits**
 <div>
+  <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" height="40"/>
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
@@ -71,6 +76,10 @@ Meu foco atual está em:
 
 ### 📦 **Infra, Redes & Cloud**
 <div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://icons.fortinet.com/icons/Logos/Fortinet-logomark-rgb-red.svg" height="50"/>
+  <img width="1"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40"/>
