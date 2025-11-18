@@ -101,16 +101,6 @@ Meu foco atual está em:
 
 ---
 
-## 🌐 Contatos
-<div align="center">
-  <img src="https://img.shields.io/badge/Instagram-EC4899?logo=instagram&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/fernandoolopes/fernandoolopes/output/snake.svg" height="110" alt="snake animation"/>
 </div>
