@@ -70,4 +70,6 @@ Todas as atividades são realizadas em laboratórios próprios ou em ambientes c
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=90&section=footer" width="100%" alt="" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fernandoolopes/fernandoolopes/output/snake.svg" width="100%" alt="Snake animation" />
+</div>
