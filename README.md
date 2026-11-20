@@ -1,107 +1,73 @@
-<p align="center">
-  <img 
-    src="https://www.recordedfuture.com/threat-intelligence-101/tools-and-techniques/media_12669b9a517138333e647bfeddb5b2e2d7e140288.png?width=2000&format=webply&optimize=medium" 
-    style="width:100%; height:300px; object-fit:cover; object-position:center;"
-  />
-</p>
-
-
-
-<h1 align="center">⚡ CYBERSECURITY | PENTEST | RED TEAM ⚡</h1>
-
-<h3 align="center">
-  Enthusiast • Learner • Offensive Security  
-</h3>
-
----
-
-## 👾 Quem sou eu
-Sou o **Fernando Lopes**, apaixonado por **Segurança Ofensiva**, ataques em ambientes controlados e toda a filosofia que envolve o mundo do hacking ético e cibersegurança.
-
-Meu foco atual está em:
-
-- 🔍 Pentest (Infra / Redes / Sistemas / Wireless)  
-- 🎯 Técnicas de Red Team  
-- 🧪 Exploração de vulnerabilidades  
-- 🛠️ Scripting para automação ofensiva (Python / Bash)  
-- 🛰️ OSINT & coleta de informações  
-- 🔐 Segurança em infraestruturas Linux  
-- ⚙️ Ferramentas e metodologias de Ethical Hacking  
-
----
-
-## 🧰 Arsenal Técnico
-
-### 🖥️ **Sistemas Operacionais**
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" height="40" />
-  <img width="10"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" />
-  <img width="10"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" height="40" />
-</div>
-
----
-
-### ⚔️ **Ferramentas de Segurança / Offensive Security**
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg" height="42"/>
-  <img src="https://cdn.brandfetch.io/idCqcY6yWr/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="42"/>
-  <img src="https://www.kali.org/tools/john/images/john-logo.svg" height="42"/>
-  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="42"/>
-  <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" height="42"/>
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="42"/>
-</p>
-
-
----
-
-### 🐍 **Linguagens para Automação & Exploits**
-<div>
-  <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-</div>
-
----
-
-### 📦 **Infra, Redes & Cloud**
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://icons.fortinet.com/icons/Logos/Fortinet-logomark-rgb-red.svg" height="50"/>
-  <img width="1"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40"/>
-</div>
-
----
-
-## 💀 Filosofia de Trabalho 
-- **Nada é seguro. Só está esperando ser explorado.**
-- O que é acessível pode ser invadido.
-- Código falha. Humanos falham mais.
-- A superfície de ataque nunca é zero.
-- Toda defesa tem um ponto cego.
-- A vulnerabilidade sempre existe — a descoberta é só questão de tempo.
-
----
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fernandoolopes/fernandoolopes/output/snake.svg" height="110" alt="snake animation"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Fernando%20Lopes&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Cybersecurity%20%7C%20Pentest%20%7C%20Red%20Team&descAlignY=60&descSize=16" width="100%" alt="Fernando Lopes — Cybersecurity | Pentest | Red Team" />
+
+**Segurança Ofensiva · Pentest · Red Team**
+
 </div>
 
+---
+
+## Sobre
+
+Sou **Fernando Lopes**, profissional em formação na área de **Segurança Ofensiva**, com interesse em testes de intrusão, ataques em ambientes controlados e na metodologia do hacking ético.
+
+Todas as atividades são realizadas em laboratórios próprios ou em ambientes com autorização explícita.
+
+## Foco atual
+
+- **Pentest:** infraestrutura, redes, sistemas e wireless
+- **Red Team:** técnicas e metodologias de simulação de adversários
+- **Exploração de vulnerabilidades:** identificação, validação e análise de impacto
+- **Automação ofensiva:** scripts em Python e Bash
+- **OSINT:** coleta e correlação de informações
+- **Hardening:** segurança em infraestruturas Linux
+
+## Stack técnico
+
+**Sistemas operacionais**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+**Ferramentas de segurança**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-2B2B2B?style=flat-square)
+![Hydra](https://img.shields.io/badge/Hydra-2B2B2B?style=flat-square)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-2B2B2B?style=flat-square)
+
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+**Infraestrutura, redes e cloud**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-2B2B2B?style=flat-square)
+
+## Princípios
+
+> A superfície de ataque nunca é zero.
+> Toda defesa tem um ponto cego.
+> Código falha, e humanos falham mais.
+
+<!--
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=90&section=footer" width="100%" alt="" />
